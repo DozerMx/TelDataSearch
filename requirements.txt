@@ -2,3 +2,4 @@ requests
 phonenumbers
 colorama
 fake-useragent
+pycryptodome
